@@ -1,4 +1,4 @@
-# Algorithm Homework
+# Algorithm Assignment
 
 ## model 1
 ### 1. model 1:3Layers with 1 Convolution Layer
